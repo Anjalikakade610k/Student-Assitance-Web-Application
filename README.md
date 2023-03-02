@@ -1,4 +1,4 @@
-# Project topic: Student Assistance
+# Student Assistance
 
 
 ### Anjali Kakade (002923023)
